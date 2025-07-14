@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    padding: 0 10px;
+}
+
+.header_link.active{
+    color: #0084d1;
+}
+
+
+
+
+
+
+.anticon {
+    color: white !important;
+}
+
+.anticon {
+    svg {
+        height: 32px;
+    }
+}
+
