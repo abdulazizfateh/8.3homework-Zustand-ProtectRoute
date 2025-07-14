@@ -51,7 +51,7 @@ const SignIn: React.FC = () => {
             <div className='container mx-auto'>
                 <div className="signin_wrapper w-full h-screen flex flex-col gap-5 items-center justify-center">
                     <h1 className='text-white text-2xl uppercase'>Sign in</h1>
-                    <div className='w-[90%] sm:w-auto px-6 pt-8 sm:px-8 sm:pt-6 pb-0 bg-[#111]'>
+                    <div className='w-[90%] sm:w-auto px-6 pt-8 sm:px-8 sm:pt-6 pb-0 bg-[#111] border border-[#222]'>
                         <Form
                             className='sm:w-[340px]'
                             name="signin"
